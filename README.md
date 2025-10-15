@@ -36,3 +36,68 @@ Langages sacrés : Laravel (PHP ++), Vue.js, Inertia, Java, Bash liturgique
 Réseau mystique : BGP, OSPF, Routing, VLAN, DHCP possédé
 Infra démoniaque : Plesk, Docker (quand je veux souffrir moins), SSH à 4h du mat
 OS tolérés : Linux (béni), Windows (pénitence), MacOS (pour faire genre au Starbucks)
+````
+
+---
+
+### 🚨 Miracles techniques accomplis
+
+✅ J’ai redémarré Plesk **sans perdre un seul vhost** (*modération enquête encore*)
+✅ J’ai fait du BGP **sans sentir mon âme quitter mon corps**
+✅ J’ai lancé `php artisan migrate` **sans backup**, juste avec la foi
+❌ J’ai cru qu’un jour Java allait consommer moins de RAM.
+❓ J’ai mis `@if($user)` juste pour voir qui mourrait en premier : l’app ou moi
+
+---
+
+### 📊 Statistiques de Foi
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonGithubIci&show_icons=true&theme=merko" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonGithubIci&theme=merko" />
+</p>
+
+---
+
+### 🎖 Hauts Faits du Clergé DevOps
+
+* 🥇 A configuré un reverse proxy **du premier coup** (*on a vérifié, c'est faux*)
+* 🧯 A réparé un `rm -rf /var/www` juste avec la peur
+* 🤬 A essayé d'expliquer BGP à un commercial
+* 🕯 **Relance Plesk avec un chapelet dans la main gauche et `systemctl restart psa` dans la droite**
+
+---
+
+### 📜 Commandements Réseau
+
+> *"Tu ne mettras point `allowOverride None` dans le .htaccess de ton prochain projet, sous peine de 403 éternelle."*
+
+> *"Tu honoreras tes backups, car nul ne connaît le jour ni l’heure de la corruption MySQL."*
+
+---
+
+### 🕳 Bonus caché (ne scrolle pas)
+
+<!--
+Si tu lis ça, tu es l’élu. Tu as gagné 1 token root sur le datacenter papal. Mot de passe : JesusLovesBGP
+-->
+
+---
+
+### 📬 Contact céleste
+
+* 🖥 GitHub : **github.com/TonGithubIci**
+* 😈 Discord : **PapeLeonXIV#7777**
+* 📡 BGP peering request : `AS1488` — prie avant de tenter.
+
+---
+
+> ✨ *Commit en paix, mon enfant.*
+
+```
+
+---
+
+💬 **Si tu me donnes ton vrai pseudo GitHub**, je te régénère **automatiquement les liens de stats en live** + je peux **ajouter des GIF / animation ASCII / badge ultra stylé**. Tu veux ?
+```
