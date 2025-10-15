@@ -77,11 +77,8 @@ OS tolérés : Linux (béni), Windows (pénitence), MacOS (pour faire genre au S
 
 ---
 
-### 🕳 Bonus caché (ne scrolle pas)
-
-<!--
+### 🕳 Bonus papal
 Si tu lis ça, tu es l’élu. Tu as gagné 1 token root sur le datacenter papal. Mot de passe : JesusLovesBGP
--->
 
 ---
 
@@ -98,6 +95,3 @@ Si tu lis ça, tu es l’élu. Tu as gagné 1 token root sur le datacenter papal
 ```
 
 ---
-
-💬 **Si tu me donnes ton vrai pseudo GitHub**, je te régénère **automatiquement les liens de stats en live** + je peux **ajouter des GIF / animation ASCII / badge ultra stylé**. Tu veux ?
-```
