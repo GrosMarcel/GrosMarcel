@@ -91,7 +91,3 @@ Si tu lis ça, tu es l’élu. Tu as gagné 1 token root sur le datacenter papal
 ---
 
 > ✨ *Commit en paix, mon enfant.*
-
-```
-
----
