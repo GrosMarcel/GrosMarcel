@@ -1,93 +1,117 @@
-<h1 align="center">👑 Pape Léon XIV — Architecte Réseau du Saint Datacenter</h1>
+<h1 align="center">👑 Pape Léon XIV — Grand Inquisiteur des Paquets & Procureur des Exceptions</h1>
 <p align="center">
-  <i>"Je route les âmes comme je route les paquets BGP : avec foi et haine envers Orange Fibre."</i>
+  <i>"Je bénis tes migrations et maudis tes backups oubliés. Amen, et surtout push --force."</i>
 </p>
 
 ---
 
-### ✝️ Identité Techno-Spirituelle
-
-- 💻 **Développeur / Exorciste Laravel & Vue.js**
-- 🚦 **Inquisiteur du Routing BGP / OSPF**
-- 🎛 **Plesk tamé. Une fois. En 2019. Depuis il me hante.**
-- 🔥 **Inertia / Java / API REST mais sanctifiée**
-- 🧙‍♂️ **Sysadmin Linux, Windows & MacOS — j'ai vu des choses...**
-- 📡 **Je ping Google avant de prier. Priorités.**
+## 🕯️ Préambule sacrilège
+Je suis **Pape Léon XIV**, patron des scripts qui tournent quand tu dors, guérisseur de services en PLS et faiseur de miracles (souvent temporaires).  
+Si tu cherches du professionnalisme, va voir le `.gitignore` d'un autre. Ici, on prie, on route, on deploy — parfois dans cet ordre.
 
 ---
 
-### 🤡 Ce que je fais IRL
-
-| Rôle | Description véridique mais triste |
-|------|----------------------------------|
-| 🧑‍💻 Développeur Laravel | J'écris du code élégant puis je patch en prod à 3h du matin |
-| 🎮 Vue.js Wizard | J'ajoute un v-if et soudain tout casse, miracle inversé |
-| 🎚 Sysadmin Plesk | Je redémarre `psa` en espérant, comme on jette de l'eau bénite |
-| 📡 BGP / OSPF Monk | **Je bénis les routes.** Que le trafic trouve le bon chemin. |
-| 🔥 Java Cleric | J'invoque la JVM en sacrifiant 16 Go de RAM |
-| ☠️ Troubleshooter | "Ça marche chez moi" — Évangile selon dev 4:13 |
+## 🧾 Identité (officielle mais douteuse)
+- 👨‍💻 **Développeur** : Laravel (prêche), Vue + Inertia (cérémonie front), Java (vieux grimoire que j'ouvre par curiosité morbide)  
+- 🌐 **Réseaux** : BGP (rites d'interconnexion), OSPF (psalmodie des chemins), VLAN (cloisonnement spirituel)  
+- 🛠️ **Infra** : Plesk (traumatisme), Docker (relatif salut), SSH (porte du paradis)  
+- 🖥️ **Systèmes** : Linux (saint), MacOS (esthétique), Windows (péché originel)
 
 ---
 
-### 🛠️ Stack Canonisée
+## 📜 Mon credo technique (version abrégée et nihiliste)
+- `php artisan migrate` sans backup = test de foi.  
+- Si Plesk me sourit, je sais que je suis mort.  
+- Un routeur mal configuré, et je prononce l'excommunication du trafic.  
+- JVM = sacrifice rituel de RAM. On prie pour une jeune GC.
 
-```txt
-Langages sacrés : Laravel (PHP ++), Vue.js, Inertia, Java, Bash liturgique
-Réseau mystique : BGP, OSPF, Routing, VLAN, DHCP possédé
-Infra démoniaque : Plesk, Docker (quand je veux souffrir moins), SSH à 4h du mat
-OS tolérés : Linux (béni), Windows (pénitence), MacOS (pour faire genre au Starbucks)
+---
+
+## 🧨 Pourquoi me suivre (ou me fuir)
+- J'écris des routes Laravel qui semblent bénies. Puis j'ajoute un middleware et tout chute en enfer.  
+- Je configure BGP comme qui raccroche un crucifix sur un routeur : sans savoir trop pourquoi ça marche, mais on n'y touche plus.  
+- J'ai survécu à un `rm -rf /var/www` en criant "pourquoi moi", donc je dois être divin ou très con.
+
+---
+
+## 🛠️ Stack (béni, maudit, ou suspect)
+```
+
+Langages / Frameworks : Laravel (PHP), Vue.js + Inertia, Java, Bash énervé
+Réseau : BGP, OSPF, Routing, VLANs, NATs, ACLs et prières silencieuses
+Infra & Ops : Plesk (trauma @ 2019), Docker, SSH, Let's Encrypt (miracle gratuit)
+OS : Linux (Ubuntu/CentOS), Windows Server (désespoir), MacOS (hipster blessing)
+
 ````
 
 ---
 
-### 🚨 Miracles techniques accomplis
-
-✅ J’ai redémarré Plesk **sans perdre un seul vhost** (*modération enquête encore*)
-✅ J’ai fait du BGP **sans sentir mon âme quitter mon corps**
-✅ J’ai lancé `php artisan migrate` **sans backup**, juste avec la foi
-❌ J’ai cru qu’un jour Java allait consommer moins de RAM.
-❓ J’ai mis `@if($user)` juste pour voir qui mourrait en premier : l’app ou moi
+## 🎭 Miracles & Catastrophes (choisis ton camp)
+- ✅ **Miracle** : Redémarré Plesk sans réveiller le client. Il m'a envoyé un café.  
+- ✅ **Miracle** : BGP convergé après 3 tentatives et un sacrifice symbolique à `/dev/null`.  
+- ⚠️ **Catastrophe** : `composer update` en prod. On a tous senti la fin des temps.  
+- ⚰️ **Histoire vraie** : J'ai patché une prod en chantant des prières en Markdown. Ça a compilé. Pour une semaine.
 
 ---
 
-### 📊 Statistiques de Foi
+## 🥇 Réalisations douteuses
+- A mis en prod une feature à 02:17. L'algo a pleuré puis a gagné un prix non officiel.  
+- A expliqué BGP à un commercial. Le commercial a demandé une formation divine.  
+- A convaincu un CTO que « Plesk, ça passera » (il n'est plus CTO).
 
+---
+
+## 📊 Statuts sacrés (collez ton pseudo GitHub pour les live-stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonGithubIci&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonGithubIci&show_icons=true&theme=dark" alt="stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonGithubIci&theme=merko" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonGithubIci&theme=dark" alt="streak" />
 </p>
 
 ---
 
-### 🎖 Hauts Faits du Clergé DevOps
-
-* 🥇 A configuré un reverse proxy **du premier coup** (*on a vérifié, c'est faux*)
-* 🧯 A réparé un `rm -rf /var/www` juste avec la peur
-* 🤬 A essayé d'expliquer BGP à un commercial
-* 🕯 **Relance Plesk avec un chapelet dans la main gauche et `systemctl restart psa` dans la droite**
-
----
-
-### 📜 Commandements Réseau
-
-> *"Tu ne mettras point `allowOverride None` dans le .htaccess de ton prochain projet, sous peine de 403 éternelle."*
-
-> *"Tu honoreras tes backups, car nul ne connaît le jour ni l’heure de la corruption MySQL."*
+## 🧾 Commandements du Clergé DevOps
+1. Tu n'ajouteras point de `composer update` avant le backup.  
+2. Tu fermeras tes ports comme tu fermes un péché. Sauf le 22. Le 22 restera ouvert par oubli.  
+3. Tu honoreras les Pull Requests, même celles qui sont des `WIP` depuis 2016.  
+4. Tu n'abuseras pas de `sudo` comme d'un ticket pour le paradis.  
+5. Sauvegarde + test de restore = vraie foi.
 
 ---
 
-### 🕳 Bonus papal
-Si tu lis ça, tu es l’élu. Tu as gagné 1 token root sur le datacenter papal. Mot de passe : JesusLovesBGP
+## 🖤 HUMOUR NOIR (si t'as le cœur bien accroché)
+- Les juniors demandent "Pourquoi ça plante ?" — je réponds "Pour te rendre humble."  
+- Plesk en prod = séance d'exorcisme récurrente. Tarif : une bière et un mot de passe root.  
+- Java, c'est comme zombifier un serveur : t'as l'impression d'être utile, mais c'est en fait mort à l'intérieur.  
+- Windows Server à 3h du mat : on allume des bougies et on joue à "qui restart le service en premier".  
+- Backups sont comme les promesses : on y croit jusqu'au premier crash.
 
 ---
 
-### 📬 Contact céleste
-
-* 🖥 GitHub : **github.com/TonGithubIci**
-* 😈 Discord : **PapeLeonXIV#7777**
-* 📡 BGP peering request : `AS1488` — prie avant de tenter.
+## ⚙️ Scripts sacrés (à NE PAS lancer sauf si tu veux souffrir)
+```bash
+# invocation temporaire
+alias resurrection='systemctl restart apache2 || echo "Faute d'âme, tentez un revert."'
+# ne pas exécuter : ceci est un test spirituel
+````
 
 ---
 
-> ✨ *Commit en paix, mon enfant.*
+## 🕳️ Easter Eggs (pour les curieux qui inspectent)
+
+Si tu lis ce commentaire : tu as trouvé l'alcôve secrète.
+Mot de passe papal pour la clé SSH : JesusLovesBGP
+PS : je plaisante (ou pas).
+
+---
+
+## 📬 Contact (ou exorcisme à la demande)
+
+* GitHub : [https://github.com/TonGithubIci](https://github.com/TonGithubIci)
+* Discord : PapeLeonXIV#7777 (j'accepte les dms et les prières à 03:12)
+* Peering BGP : AS1488 — envoie la requête avec humilité
+
+---
+
+> 🕯️ *Si tu as mis ce README dans ton profil : +1 karma. Si tu l'as cloné en prod sans test : +1 ticket incident.*
+> Commit en paix — et si t'es chanceux, la CI passe du premier coup.
