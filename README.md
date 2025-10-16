@@ -1,117 +1,79 @@
-<h1 align="center">👑 Pape Léon XIV — Grand Inquisiteur des Paquets & Procureur des Exceptions</h1>
-<p align="center">
-  <i>"Je bénis tes migrations et maudis tes backups oubliés. Amen, et surtout push --force."</i>
-</p>
+<div align="center">
+  <h1>✝️ Bienvenue dans le Saint-Siège du Code - Pape Léon XIV ✝️</h1>
+  <p><em>Vicaire Suprême du Développement, Exorciste des Bugs, et Grand Architecte des Réseaux</em></p>
+  <img src="https://img.shields.io/badge/Pape%20L%C3%A9on%20XIV-Infaillible%20en%20Code-blueviolet?style=for-the-badge" alt="Badge Pape Léon XIV"/>
+</div>
 
 ---
 
-## 🕯️ Préambule sacrilège
-Je suis **Pape Léon XIV**, patron des scripts qui tournent quand tu dors, guérisseur de services en PLS et faiseur de miracles (souvent temporaires).  
-Si tu cherches du professionnalisme, va voir le `.gitignore` d'un autre. Ici, on prie, on route, on deploy — parfois dans cet ordre.
+## 📜 Bulle Pontificale : Qui suis-je ?
+
+Je suis **Léon XIV**, Souverain Pontife du Code, gardien des serveurs sacrés et fléau des erreurs 500. Depuis mon Vatican numérique, je prêche la bonne parole du clean code et excommunie les hérétiques qui osent push en prod le vendredi soir. Mon ministère ? Bâtir des cathédrales backend en **Laravel**, sculpter des interfaces divines avec **Vue.js** et **Inertia**, et ressusciter des systèmes legacy en **Java** comme Lazare sortant du tombeau.
+
+Quand je ne célèbre pas la messe des déploiements CI/CD, je trace les routes du réseau avec **BGP** et **OSPF**, tel un Moïse du routage. Mes ouailles ? Des serveurs sous **Plesk**, tournant sur **Windows**, **Linux**, et même **macOS** pour les âmes perdues du design. Mon code est infaillible, mais mes merges… disons qu’ils déclenchent parfois une croisade.
+
+> **Avertissement** : Tout mauvais indent sera jugé par l’Inquisition. Préparez vos confessions avant de soumettre une PR.
 
 ---
 
-## 🧾 Identité (officielle mais douteuse)
-- 👨‍💻 **Développeur** : Laravel (prêche), Vue + Inertia (cérémonie front), Java (vieux grimoire que j'ouvre par curiosité morbide)  
-- 🌐 **Réseaux** : BGP (rites d'interconnexion), OSPF (psalmodie des chemins), VLAN (cloisonnement spirituel)  
-- 🛠️ **Infra** : Plesk (traumatisme), Docker (relatif salut), SSH (porte du paradis)  
-- 🖥️ **Systèmes** : Linux (saint), MacOS (esthétique), Windows (péché originel)
+## 🛠️ Ma Stack Sacrée
+
+| **Domaine**         | **Outils divins**                              | **Pourquoi ?**                                                                 |
+|---------------------|-----------------------------------------------|-------------------------------------------------------------------------------|
+| **Backend**         | Laravel, Java                                 | Pour bâtir des fondations solides comme la basilique Saint-Pierre.            |
+| **Frontend**        | Vue.js, Inertia                              | Parce que l’interface doit être plus fluide que l’eau bénite.                 |
+| **Réseaux**         | BGP, OSPF, Routing                           | Je guide les paquets comme un berger mène son troupeau.                       |
+| **Gestion serveur** | Plesk                                        | Mon sceptre pour régner sur les serveurs avec une poigne papale.              |
+| **OS**             | Windows, Linux, macOS                        | Je parle toutes les langues, même celles des hérétiques en GUI.               |
 
 ---
 
-## 📜 Mon credo technique (version abrégée et nihiliste)
-- `php artisan migrate` sans backup = test de foi.  
-- Si Plesk me sourit, je sais que je suis mort.  
-- Un routeur mal configuré, et je prononce l'excommunication du trafic.  
-- JVM = sacrifice rituel de RAM. On prie pour une jeune GC.
+## ⚔️ Mes Exploits Pontificaux
+
+- **Exorcisme des bugs** : J’ai banni des erreurs 404 si têtues qu’elles imploraient la miséricorde.  
+- **Réformation du code spaghetti** : Transformé des monolithes en microservices plus saints que les reliques de Saint-Pierre.  
+- **Miracles réseau** : Configuré des routes BGP si parfaites qu’elles méritent une canonisation.  
+- **Survie aux prod incidents** : À 3h du matin, j’ai ressuscité un serveur mort avec un simple `sudo systemctl restart`.  
+- **README divins** : Mes docs sont si clairs qu’ils convertissent même les athées du devops.
 
 ---
 
-## 🧨 Pourquoi me suivre (ou me fuir)
-- J'écris des routes Laravel qui semblent bénies. Puis j'ajoute un middleware et tout chute en enfer.  
-- Je configure BGP comme qui raccroche un crucifix sur un routeur : sans savoir trop pourquoi ça marche, mais on n'y touche plus.  
-- J'ai survécu à un `rm -rf /var/www` en criant "pourquoi moi", donc je dois être divin ou très con.
+## 😈 Commandements du Code
+
+1. **Tu ne push pas en prod sans tests** : Sinon, attends-toi à une excommunication en règle.  
+2. **Tu respecteras l’indentation** : Quatre espaces ou l’enfer t’attend.  
+3. **Tu ne blameras pas le réseau** : Sauf si OSPF a vraiment merdé.  
+4. **Tu confesseras tes erreurs 500** : Le silence est un péché mortel.  
+5. **Tu ne coderas pas en Comic Sans** : Même Satan a ses limites.
+
+> **Fun fact** : Mon terminal est béni à l’eau de Cologne (version 3.2). Mes commits sont si purs qu’ils brillent dans le dark mode.
 
 ---
 
-## 🛠️ Stack (béni, maudit, ou suspect)
-```
+## 📖 Mes Projets Actuels
 
-Langages / Frameworks : Laravel (PHP), Vue.js + Inertia, Java, Bash énervé
-Réseau : BGP, OSPF, Routing, VLANs, NATs, ACLs et prières silencieuses
-Infra & Ops : Plesk (trauma @ 2019), Docker, SSH, Let's Encrypt (miracle gratuit)
-OS : Linux (Ubuntu/CentOS), Windows Server (désespoir), MacOS (hipster blessing)
-
-````
+- **La Basilique Backend** : Une API Laravel si robuste qu’elle résiste aux invasions barbares des bots.  
+- **L’Évangile du Front** : Une interface Vue/Inertia si fluide qu’elle fait pleurer les anges.  
+- **Le Saint Graal du Réseau** : Optimisation des routes BGP/OSPF pour un ping digne du paradis.  
+- **L’Inquisition CI/CD** : Automatisation des déploiements pour chasser les démons des pipelines cassés.
 
 ---
 
-## 🎭 Miracles & Catastrophes (choisis ton camp)
-- ✅ **Miracle** : Redémarré Plesk sans réveiller le client. Il m'a envoyé un café.  
-- ✅ **Miracle** : BGP convergé après 3 tentatives et un sacrifice symbolique à `/dev/null`.  
-- ⚠️ **Catastrophe** : `composer update` en prod. On a tous senti la fin des temps.  
-- ⚰️ **Histoire vraie** : J'ai patché une prod en chantant des prières en Markdown. Ça a compilé. Pour une semaine.
+## 🙏 Comment Collaborer avec Sa Sainteté
+
+1. Fork mon repo comme on vole une indulgence.  
+2. Soumets une PR aussi propre qu’une soutane fraîchement repassée.  
+3. Attends ma bénédiction (ou une révision impitoyable).  
+
+> **Note** : Si ta PR casse le build, prépare-toi à réciter 10 `git revert` et 5 `docker-compose down`.
+
+📧 Contact : Invoque-moi via GitHub Issues ou envoie un pigeon voyageur à `leonxiv@vatican.dev`.  
+🌐 Retrouve mes décrets sur [x.com](https://x.com) ou au concile de localhost:3000.
 
 ---
 
-## 🥇 Réalisations douteuses
-- A mis en prod une feature à 02:17. L'algo a pleuré puis a gagné un prix non officiel.  
-- A expliqué BGP à un commercial. Le commercial a demandé une formation divine.  
-- A convaincu un CTO que « Plesk, ça passera » (il n'est plus CTO).
-
----
-
-## 📊 Statuts sacrés (collez ton pseudo GitHub pour les live-stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonGithubIci&show_icons=true&theme=dark" alt="stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonGithubIci&theme=dark" alt="streak" />
-</p>
-
----
-
-## 🧾 Commandements du Clergé DevOps
-1. Tu n'ajouteras point de `composer update` avant le backup.  
-2. Tu fermeras tes ports comme tu fermes un péché. Sauf le 22. Le 22 restera ouvert par oubli.  
-3. Tu honoreras les Pull Requests, même celles qui sont des `WIP` depuis 2016.  
-4. Tu n'abuseras pas de `sudo` comme d'un ticket pour le paradis.  
-5. Sauvegarde + test de restore = vraie foi.
-
----
-
-## 🖤 HUMOUR NOIR (si t'as le cœur bien accroché)
-- Les juniors demandent "Pourquoi ça plante ?" — je réponds "Pour te rendre humble."  
-- Plesk en prod = séance d'exorcisme récurrente. Tarif : une bière et un mot de passe root.  
-- Java, c'est comme zombifier un serveur : t'as l'impression d'être utile, mais c'est en fait mort à l'intérieur.  
-- Windows Server à 3h du mat : on allume des bougies et on joue à "qui restart le service en premier".  
-- Backups sont comme les promesses : on y croit jusqu'au premier crash.
-
----
-
-## ⚙️ Scripts sacrés (à NE PAS lancer sauf si tu veux souffrir)
-```bash
-# invocation temporaire
-alias resurrection='systemctl restart apache2 || echo "Faute d'âme, tentez un revert."'
-# ne pas exécuter : ceci est un test spirituel
-````
-
----
-
-## 🕳️ Easter Eggs (pour les curieux qui inspectent)
-
-Si tu lis ce commentaire : tu as trouvé l'alcôve secrète.
-Mot de passe papal pour la clé SSH : JesusLovesBGP
-PS : je plaisante (ou pas).
-
----
-
-## 📬 Contact (ou exorcisme à la demande)
-
-* GitHub : [https://github.com/TonGithubIci](https://github.com/TonGithubIci)
-* Discord : PapeLeonXIV#7777 (j'accepte les dms et les prières à 03:12)
-* Peering BGP : AS1488 — envoie la requête avec humilité
-
----
-
-> 🕯️ *Si tu as mis ce README dans ton profil : +1 karma. Si tu l'as cloné en prod sans test : +1 ticket incident.*
-> Commit en paix — et si t'es chanceux, la CI passe du premier coup.
+<div align="center">
+  <p><em>"Que ton code soit saint, et que tes serveurs soient uptime." - Léon XIV, 2025</em></p>
+  <img src="https://img.shields.io/badge/Commits-Infaillibles-green?style=flat-square" alt="Commits Infaillibles"/>
+  <img src="https://img.shields.io/badge/Bugs-Excommuni%C3%A9s-red?style=flat-square" alt="Bugs Excommuniés"/>
+</div>
